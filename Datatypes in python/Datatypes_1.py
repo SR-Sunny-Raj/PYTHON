@@ -21,6 +21,7 @@ print(int(True))
 lst = [1, 2, 3, 4, 5]
 print(lst)
 
+# git check
 # Set datatype
 s = {4, 8, 2, 1, 6, 3}
 print(s)
