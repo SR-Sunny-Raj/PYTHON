@@ -24,15 +24,8 @@ print(lst)
 # Set datatype
 s = {4, 8, 2, 1, 6, 3}
 print(s)
-# ahfajhjcaj
-# hsfjahfha
 
-# Tuple datatypsjvjsbjsjsjvjskvb
-
-# kajhdj
-
-# akak/
-
+# Tuple datatypes
 tup = (10, 20, 50, 40, 30)
 print(tup)
 
@@ -46,11 +39,9 @@ print(k)
 l = list(range(11, 21, 2))
 print(l)
 
-# Dictionary datatype bhai gitcheck
+# Dictionary datatype
 d = {1: 'sunny', 'raj': 'python', 2.4: 'java'}
 print(d)
 print(d.keys())
 print(d.values())
 print(d[2.4])
-
-# New line added for gitcheck
