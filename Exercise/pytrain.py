@@ -29,3 +29,20 @@
 # s = "Sunny"
 # for i in s:
 #     print(i*3)
+# b = 1
+# for i in range(10, 101, 10):
+#     print(f"10 * {b} = ", i)
+#     b += 1
+a = '246'
+s = ' Hello World'
+print(s[1:4])
+print(s*2)
+print(a.isdigit())
+print(a.isalnum())
+print(a.isalpha())
+print(s.upper())        # new
+print(s)
+print(s.strip())  # new
+
+print(s.isspace())   # new
+print(s.split(" "))
